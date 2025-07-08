@@ -1,0 +1,6 @@
+main: me.while1cry.liteperms.LitePerms
+name: LitePerms
+version: dev-0.1
+api-version: 0.54.1
+author: while1cry
+description: A simple permission management plugin for JKook
